@@ -1,0 +1,11 @@
+<web-app>
+	<servlet>
+		<servlet-name>s4</servlet-name>
+		<servlet-class>Counter</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>s4</servlet-name>
+		<url-pattern>/Counter</url-pattern>
+	</servlet-mapping>
+	
+</web-app>

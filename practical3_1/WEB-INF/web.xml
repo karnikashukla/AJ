@@ -1,0 +1,15 @@
+<web-app>
+	<servlet>
+		<servlet-name>s1</servlet-name>
+		<servlet-class>Color</servlet-class>
+		<init-param>
+		        <param-name>col</param-name>
+		        <param-value>red</param-value>
+        	</init-param>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>s1</servlet-name>
+		<url-pattern>/color</url-pattern>
+	</servlet-mapping>
+	
+</web-app>
