@@ -1,0 +1,10 @@
+1.replace service with product
+2. https://support.apple.com/en-in ->  about page
+3. 8 line pachi white image(watch website)
+4. white image pachi slider  (https://www.apple.com/in/watch/)
+5. about us -> samsung nu lakhelu(https://www.samsung.com/in/aboutsamsung/home/) and apple ni image(image1) and after banner aboutus vali image
+	apple nu about page uthavanu..!
+	 Global IT Industry
+6. product page -> (product_home image) 8products (product_vache) 8products
+7. contact us image and contact us (bootstrap https://bootsnipp.com/snippets/4Maen)
+	background = fixed
